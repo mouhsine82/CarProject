@@ -6,7 +6,7 @@ public class Main {
       BMW.year="2022";
       CarFeatures2 HONDA  = new CarFeatures2();
       HONDA.speed= "200";
-      HONDA.MPG = "50;
+      HONDA.MPG = "50";
       HONDA.VIN= "j2154656546546";
     }
 
